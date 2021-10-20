@@ -35,7 +35,7 @@ and many more...<br />
 ## Submission Format:<br />
 All have to fork this repository and create a folder with their jupyter file and a submission file and make a Pull Request with this repository.<br />
 
-## Submission Deadline: 6 November 2021<br />
+## Submission Deadline: 14 November 2021<br />
 
 ## In case of queries, feel free to contact:<br />
 - Muskaan Chopra (+91-8146194184)<br />
